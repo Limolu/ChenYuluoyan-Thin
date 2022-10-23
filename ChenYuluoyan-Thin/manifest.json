@@ -1,0 +1,8 @@
+{
+    "name": "ChenYuluoyan-Thin",
+    "description": "Change the font of discord",
+    "version": "1.0",
+    "author": "羽迭#1591",
+    "theme": "ChenYuluoyan-Thin.theme.css",
+    "license": "MIT"
+}
